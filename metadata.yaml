@@ -1,0 +1,35 @@
+_repo: Object-Lessons-on-the-Human-Body--13-A-Transcript-of-Lessons-Given-in-the-Primary-Department-__15435
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Buckelew, Sarah F. (Sarah Frances)
+    alias: Buckelew, Sarah Frances
+    birthdate: 1835
+    gutenberg_agent_id: '6053'
+    url: http://www.gutenberg.org/2009/agents/6053
+  - agent_name: Lewis, Margaret W. (Margaret Wiseham)
+    alias: Lewis, Margaret Wiseham
+    birthdate: 1837
+    gutenberg_agent_id: '6054'
+    url: http://www.gutenberg.org/2009/agents/6054
+description: ''
+gutenberg_bookshelf: Physiology
+gutenberg_issued: '2005-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15435'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hygiene -- Popular works'
+- !lcsh 'Physiology -- Popular works'
+- !lcc 'QP'
+- !lcsh 'Physiology'
+title: "Object Lessons on the Human Body\r\nA Transcript of Lessons Given in the Primary\
+  \ Department of School No. 49, New York City"
+url: http://www.gutenberg.org/ebooks/15435
